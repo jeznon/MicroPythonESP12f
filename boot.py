@@ -1,4 +1,5 @@
 # This file is executed on every boot (including wake-boot from deepsleep)
+# just to let you know that this file is not mine, but I don't have the source, this is a boot example for logging into your wifi local network
 
 try:
   import usocket as socket
